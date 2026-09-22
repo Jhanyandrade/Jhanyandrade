@@ -39,8 +39,6 @@ Selected results include:
 
 My work focuses on connecting **growth, content, and community strategy with measurable business outcomes**, including acquisition, engagement, conversion, fundraising support, and ecosystem growth.
 
-My work has focused on connecting **growth, content, and community strategy with measurable business outcomes**, including user acquisition, engagement, conversion, fundraising support, and ecosystem growth.
-
 ## 💡 Areas I'm Interested In
 
 `Web3` `Crypto` `Blockchain` `DeFi` `AI` `Growth` `Content` `Community` `Startups` `Gaming`
