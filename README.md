@@ -43,11 +43,16 @@ My work focuses on connecting **growth, content, and community strategy with mea
 
 `Web3` `Crypto` `Blockchain` `DeFi` `AI` `Growth` `Content` `Community` `Startups` `Gaming`
 
+## 📂 Portfolio
+
+Explore selected projects, campaigns, content strategies, and community initiatives from my professional experience.
+
+[**View my professional portfolio →**](LINK_DO_PORTFOLIO)
+
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** Jhanielly Andrade  
-✈️ **Telegram:** @JhanyAndrade  
-📩 **Email:** Jhanydigital@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhanielly_Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhanielly-andrade-73a27922a/)
+[![Telegram](https://img.shields.io/badge/Telegram-@JhanyAndrade-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JhanyAndrade)
+[![Email](https://img.shields.io/badge/Email-Jhanydigital%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhanydigital@gmail.com)
 
 *Building content, communities, and growth strategies for the next generation of digital products.*
