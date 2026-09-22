@@ -25,11 +25,18 @@ I have experience creating strategies, campaigns, and content for Web3 and techn
 
 I'm especially interested in **crypto, blockchain, DeFi, AI, emerging technologies, and digital communities**.
 
-## 📈 Selected Experience
+## 📈 Selected Impact
 
-Over the years, I've worked with projects ranging from early-stage communities to international campaigns.
+Throughout my career, I've contributed to **70+ national and international projects** across Web3, AI, technology, gaming, and digital markets.
 
-Some of my experience includes contributing to projects associated with fundraising results of **$500K+** and **$350K+**, while building engaged communities and content ecosystems designed around growth and conversion.
+Selected results from projects I've contributed to include:
+
+- 🤖 **$500K+ raised** by an AI and Web3 technology project
+- 🚀 **$350K+ raised** by a Web3 gaming ecosystem
+- 🎮 **$2M+ in trading volume** achieved by a Web3 gaming project combining blockchain, NFTs, and a digital asset economy
+- 🌎 Community growth, content strategy, user acquisition, and brand-building initiatives across international markets
+
+My work has focused on connecting **growth, content, and community strategy with measurable business outcomes**, including user acquisition, engagement, conversion, fundraising support, and ecosystem growth.
 
 ## 💡 Areas I'm Interested In
 
