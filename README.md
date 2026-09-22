@@ -55,4 +55,4 @@ Explore selected projects, campaigns, content strategies, and community initiati
 [![Telegram](https://img.shields.io/badge/Telegram-@JhanyAndrade-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JhanyAndrade)
 [![Email](https://img.shields.io/badge/Email-Jhanydigital%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jhanydigital@gmail.com)
 
-*Building content, communities, and growth strategies for the next generation of digital products.*
+*Creating content that sells is my specialty.*
