@@ -29,12 +29,15 @@ I'm especially interested in **crypto, blockchain, DeFi, AI, emerging technologi
 
 Throughout my career, I've contributed to **70+ national and international projects** across Web3, AI, technology, gaming, and digital markets.
 
-Selected results from projects I've contributed to include:
+Selected results include:
 
-- 🤖 **$500K+ raised** by an AI and Web3 technology project
-- 🚀 **$350K+ raised** by a Web3 gaming ecosystem
-- 🎮 **$2M+ in trading volume** achieved by a Web3 gaming project combining blockchain, NFTs, and a digital asset economy
-- 🌎 Community growth, content strategy, user acquisition, and brand-building initiatives across international markets
+- 🚀 **Founded and led a Web3 initiative that raised $100K+**, leading its strategic positioning, community development, and growth initiatives
+- 🤖 Contributed to an **AI and Web3 technology project that raised $500K+**
+- 🎮 Contributed to a **Web3 gaming ecosystem that raised $350K+**
+- 📊 Contributed to a **Web3 gaming project that achieved $2M+ in trading volume**
+- 🌎 Led and supported community growth, content strategy, user acquisition, and brand-building initiatives across international markets
+
+My work focuses on connecting **growth, content, and community strategy with measurable business outcomes**, including acquisition, engagement, conversion, fundraising support, and ecosystem growth.
 
 My work has focused on connecting **growth, content, and community strategy with measurable business outcomes**, including user acquisition, engagement, conversion, fundraising support, and ecosystem growth.
 
